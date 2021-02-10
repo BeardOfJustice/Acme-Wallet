@@ -1,12 +1,24 @@
-import React from 'react';
-// import logo from './logo.svg';
+import logo from './logo.jpg';
 import './App.css';
-
-import Index from './views/Index/Index';
 
 function App() {
   return (
-    <Index />
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="logo" alt="gorilla wallet logo" />
+        <p>
+          Gorilla Wallet - Hodl like a Boss
+        </p>
+        <a
+          className="App-link"
+          href="https://gorillawallet.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          https://gorillawallet.org
+        </a>
+      </header>
+    </div>
   );
 }
 
