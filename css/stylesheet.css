@@ -29,6 +29,7 @@
     color: #070707;
     font-size: 3em;
     font-family: 'Fjalla One', sans-serif;
+    text-align: center;
   }
   
 
@@ -61,6 +62,15 @@
     font-size: 1.3em;
     text-align: left;
     
+    
+  }
+
+  
+  h5 {
+    color: #536976;
+    font-size: 3em;
+   text-align: center;
+   font-weight: bold;
     
   }
  
