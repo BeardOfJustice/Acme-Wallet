@@ -461,6 +461,7 @@
     .custom-navbar .nav li a {
       line-height: normal;
       padding: 5px;
+      padding-right: 50px;
     }
 
     img {display:block;margin:0 auto;}
