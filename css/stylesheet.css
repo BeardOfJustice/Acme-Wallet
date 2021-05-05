@@ -456,12 +456,13 @@
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       padding: 10px 0;
       text-align: center;
+      padding-right: 50px;
     }
 
     .custom-navbar .nav li a {
       line-height: normal;
       padding: 5px;
-      padding-right: 50px;
+      
     }
 
     img {display:block;margin:0 auto;}
@@ -470,6 +471,8 @@
   @media screen and (max-width: 480px) 
   {
    
+    
+
     img{
       max-width: 100%;
       max-height: 100%;
