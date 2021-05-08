@@ -25,19 +25,26 @@
     
   }
 
-  h9 {
-    color: #070707;
-    font-size: 3em;
-    font-family: 'Fjalla One', sans-serif;
-    text-align: center;
+  h3
+  {
+    color: #000000;
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: bold;
   }
-  
 
-  p {
-    color: #757575;
-    font-size: 14px;
-    font-weight: normal;
-    line-height: 24px;
+  h4
+  {
+    font-size: 1.8em;
+    font-weight: bold;
+  }
+ 
+  h5 {
+    color: #536976;
+    font-size: 3em;
+   text-align: center;
+   font-weight: bold;
+    
   }
 
   h6{
@@ -65,16 +72,21 @@
     
   }
 
-  
-  h5 {
-    color: #536976;
+  h9 {
+    color: #070707;
     font-size: 3em;
-   text-align: center;
-   font-weight: bold;
-    
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
   }
- 
 
+  p {
+    color: #757575;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+  }
+
+  
   ul.b {
     list-style-type: square;
     padding-left: 20px;
@@ -357,6 +369,11 @@
     letter-spacing: 4px;
     text-transform: uppercase;
     margin: 10px 0;
+  }
+
+  .home-info h4 {
+    color: #000000;
+    font-size: 1.1em;
   }
  
   #feature {
